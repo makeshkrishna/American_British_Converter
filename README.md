@@ -1,5 +1,7 @@
 # American_British_Converter
 
+Please refer the pdf in the repositories for more info.
+
 Install all the requirements using the below code
     !pip install -r requirements.txt
 Both CLI and Jupyter versions of the code are given. To run the CLI version follow
